@@ -17,4 +17,4 @@ This repository was created as part of an assignment that demonstrates:
 
 ---
 
-*Author: <victor kioko > – July 2025*
+*Author: < kioko > – July 2025*
